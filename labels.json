@@ -1,0 +1,42 @@
+[
+  {
+    "name": "⚙ Setting",
+    "color": "e3dede",
+    "description": "설정"
+  },
+  {
+    "name": "✨Feature",
+    "color": "a2eeef",
+    "description": "기능 개발"
+  },
+  {
+    "name": "🌏 Deploy",
+    "color": "C2E0C6",
+    "description": "환경설정"
+  },
+  {
+    "name": "🎨 Style",
+    "color": "FEF2C0",
+    "description": "스타일 설정"
+  },
+  {
+    "name": "🐞 BugFix",
+    "color": "d73a4a",
+    "description": "버그 수정"
+  },
+  {
+    "name": "📃 Document",
+    "color": "1D76DB",
+    "description": "문서"
+  },
+  {
+    "name": "🔨 Refactor",
+    "color": "f29a4e",
+    "description": "리팩토링"
+  },
+  {
+    "name": "✅ Test",
+    "color": "ccffc4",
+    "description": "테스트"
+  }
+]
