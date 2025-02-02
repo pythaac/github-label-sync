@@ -38,5 +38,10 @@
     "name": "✅ Test",
     "color": "ccffc4",
     "description": "테스트"
+  },
+  {
+    "name": "💪 Improvement",
+    "color": "eef23d",
+    "description": "기능 향상"
   }
 ]
